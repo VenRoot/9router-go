@@ -31,7 +31,7 @@ score.
     <img src="https://avatars.githubusercontent.com/u/64591494?v=4&s=200" alt="M Riyadh Azhar" loading="lazy" decoding="async" width="64" height="64" />
     <p class="contrib-name"><a href="https://github.com/mriazh">M Riyadh Azhar</a></p>
     <p class="contrib-login">@mriazh</p>
-    <p class="contrib-count">205 commits</p>
+    <p class="contrib-count">208 commits</p>
   </div>
 
   <div class="contrib-card">
@@ -66,7 +66,7 @@ score.
     <img src="https://avatars.githubusercontent.com/u/146520753?v=4&s=200" alt="Tahsin Arafat" loading="lazy" decoding="async" width="64" height="64" />
     <p class="contrib-name"><a href="https://github.com/TahsinArafat">Tahsin Arafat</a></p>
     <p class="contrib-login">@TahsinArafat</p>
-    <p class="contrib-count">9 commits</p>
+    <p class="contrib-count">10 commits</p>
   </div>
 
   <div class="contrib-card">
